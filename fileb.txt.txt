@@ -1,3 +1,5 @@
 Bug B
 Bug Fixing B Kedua
 Code untuk imp_a di fileb
+
+Bug Fixing 30 Mei 2025 11.17

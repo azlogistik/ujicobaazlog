@@ -1,3 +1,4 @@
 Bug E
 
 Fixingan Pertama Bug E oleh Programmer Azlog
+Code imp_a di filee oleh programmer azlog

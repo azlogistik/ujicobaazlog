@@ -1,1 +1,3 @@
 Bug C
+
+Code untuk imp_a di filec

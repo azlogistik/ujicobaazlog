@@ -2,3 +2,5 @@ Bug A
 Bug Fixing A Kedua
 
 Bug Fixing Pertama oleh Programmer Azlog
+
+Bug Fixing Kedua oleh Programmer andrew68901

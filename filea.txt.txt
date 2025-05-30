@@ -15,3 +15,5 @@ Bug Fixing 30 Mei 2025 11.17
 
 
 Changes by Jerrie Master
+
+Improvement BO Voucher
